@@ -1,0 +1,5 @@
+{
+  "name": "Simple Japanese Dictionary",
+  "description": "An AI-powered dictionary that explains Japanese words in very simple terms, perfect for learners. Ask follow-up questions to deepen your understanding.",
+  "requestFramePermissions": []
+}
